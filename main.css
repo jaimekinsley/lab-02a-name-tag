@@ -1,16 +1,22 @@
+
 body {
-    color: darkgrey; 
-    font-family: cursive;
+    width: 500px;
+    margin: auto;
 }
-
 section {
-    border: 1px solid steelblue;
-    border-radius: 3px;
-    margin-bottom: 10px;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif; color: white;
+    border-radius: 10px 10px 0px 0px;
     padding: 10px;
+    text-align: center;
+}
+.middle {
+    background-color: white;
+    font-family: cursive; color: black; font-size: 40px;
+    
 }
 
-.lower-section {
-    color: black;
-    font-family: sans-serif;
+.lower {
+    border-radius: 0px 0px 10px 10px;
+    height: 30px;
 }
