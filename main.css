@@ -3,13 +3,15 @@ body {
     width: 500px;
     margin: auto;
 }
+
 section {
     background-color: red;
-    font-family: Arial, Helvetica, sans-serif; color: white;
     border-radius: 10px 10px 0px 0px;
     padding: 10px;
+    font-family: Arial, Helvetica, sans-serif; color: white;
     text-align: center;
 }
+
 .middle {
     background-color: white;
     font-family: cursive; color: black; font-size: 40px;
